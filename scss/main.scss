@@ -1,0 +1,23 @@
+@import "reset_css";
+@import "text_title";
+@import "grid";
+@import "supervisior";
+@import "team";
+@import "karma";
+@import "calculator";
+@import "media_query";
+
+body {
+  background: #f9f9f9;
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+main {
+  min-height: 760px;
+  min-width: 700px;
+  max-width: 1200px;
+}

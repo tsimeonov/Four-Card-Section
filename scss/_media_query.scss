@@ -1,0 +1,59 @@
+// @import "supervisior";
+
+@media (max-width: 970px) {
+  main {
+    height: 100vh;
+  }
+  .container {
+    display: flex;
+    flex-direction: column;
+    height: 1170px;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.1em;
+    margin-top: 3em;
+  }
+
+  h3 {
+    font-size: 1.1em;
+    margin-bottom: 3em;
+  }
+
+  .supervisior {
+    height: 230px;
+    width: 50%;
+    max-width: 350px;
+    margin-bottom: 3em;
+  }
+
+  .supervisior > svg {
+    position: absolute;
+    top: 60%;
+    left: 73%;
+  }
+
+  .team {
+    height: 230px;
+    width: 50%;
+    max-width: 350px;
+  }
+
+  .karma {
+    height: 230px;
+    width: 50%;
+    max-width: 350px;
+    margin-top: 3em;
+  }
+
+  .calculator {
+    height: 230px;
+    width: 50%;
+    max-width: 350px;
+    margin-top: 3em;
+  }
+}
