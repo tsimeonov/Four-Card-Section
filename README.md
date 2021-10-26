@@ -1,4 +1,4 @@
-# Four card feature section solution
+# Four card feature section 
 
 ### The challenge
 
