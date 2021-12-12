@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: https://tsimeonov.github.io/Four-Card-Section/
+- Live Site URL: https://tsimeonov.github.io/Four-Card-Section/dist/
 
 ## My process
 
